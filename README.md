@@ -1,6 +1,10 @@
-# vue-update
-
-> Vue Auth & more
+# vue-practice-code
+- I learnt & practiced these VueJS libraries for this project:
+> Vue Auth
+> Vuex
+> Vue Router
+> Vuelidate
+> Axios
 
 ## Build Setup
 
